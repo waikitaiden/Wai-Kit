@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hi there!"
+echo "Hi there! You Noob"
 exit 22
